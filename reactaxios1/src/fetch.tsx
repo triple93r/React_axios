@@ -35,7 +35,7 @@ const Fetchs: React.FC = () => {
 
   return (
     <div>
-      <h1>IP Info</h1>
+      <h1>IP Info Fetchs</h1>
       <p><strong>IP:</strong> {data?.ip}</p>
       <p><strong>City:</strong> {data?.city}</p>
       <p><strong>Region:</strong> {data?.region}</p>
